@@ -1,0 +1,19 @@
+Kocka, kocka je jednostavan program za “bacanje” kocke koji će na pritiskom dugmeta start početi vrtit kocku dok ne ne pritisneš bilo gdje unutar programa ali ne na dugme start
+
+Kolko ja znam radi na:
+
+Linux: x86 x64 (nisam testirao)
+
+MacOS: (trebalo bi da radi al nisam testiro jer neam mek)
+
+Windows: 7,8,8.1,10(valjda 11) x86 x64
+
+Android: ne
+
+iOS: ne
+
+Windows phone: ne
+
+NAPOMENA: ako koristiš windows 8 pa nadalje (8.1 ili 10) windows defender će ti govoriti da je virus ali nije ne brini samo stisni više ili šta god piše na ovom tekstu i onda stisni ipak pokreni i to je to.
+
+http://www.aplikacije.renatogr.cf/2021/09/11/kocka/
