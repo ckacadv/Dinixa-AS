@@ -1,8 +1,0 @@
-hard
-http://dinixa-as.gq/x/pics/big.png
-sof
-http://dinixa-as.gq/x/pics/low.png
-back
-http://dinixa-as.gq/x/pics/back.png
-ajde
-http://dinixa-as.gq/x/pics/u.png
